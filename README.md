@@ -83,6 +83,7 @@ Device	Breakpoint
 Mobile	< 768px
 Tablet	768px - 1024px
 Desktop	> 1024px
+
 🧪 Browser Support
 Browser	Version
 Chrome	Latest
